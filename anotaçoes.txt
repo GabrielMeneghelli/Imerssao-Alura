@@ -1,0 +1,9 @@
+Sempre o que quer ser mostrado é listado entre aspas dentro do Código;
+
+alert -- alerta navegador
+console.log -- exibição da frase no console
+
+tomar cuidado com espaçoss, vírgulas, parenteses, etc...
+Linguagens tendem a ter mecanismos parecidos, porém cada uma pode trabalhar com detalhes mais profundos
+
+codepen.io codigos do html e css para personalização do site
