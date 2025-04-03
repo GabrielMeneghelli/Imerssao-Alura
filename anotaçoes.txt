@@ -1,3 +1,5 @@
+ANOTAÇÕES DO QUE É DITO DURANTE TODA A IMERSÃO ALURA
+
 Sempre o que quer ser mostrado é listado entre aspas dentro do Código;
 
 alert -- alerta navegador
@@ -7,3 +9,9 @@ tomar cuidado com espaçoss, vírgulas, parenteses, etc...
 Linguagens tendem a ter mecanismos parecidos, porém cada uma pode trabalhar com detalhes mais profundos
 
 codepen.io codigos do html e css para personalização do site
+
+as verificações do if só ocorrem caso as condiçoes sejam verdadeiras
+
+while é uma estrutura de repetição
+quando dizemos ... = ... em javascript estamos trazendo o valor da variavel ja informada anteriormente
+quando utilizamos o ... == ... estamos comporando o valor das variaveis atribuidas 
