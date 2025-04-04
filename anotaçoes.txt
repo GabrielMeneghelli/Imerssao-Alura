@@ -15,3 +15,7 @@ as verificações do if só ocorrem caso as condiçoes sejam verdadeiras
 while é uma estrutura de repetição
 quando dizemos ... = ... em javascript estamos trazendo o valor da variavel ja informada anteriormente
 quando utilizamos o ... == ... estamos comporando o valor das variaveis atribuidas 
+
+let X const
+Const - recebe um nome, um valor e não se altera
+Let - recebe um nome, um valor e esse valor pode ser mutavel
